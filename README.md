@@ -247,7 +247,9 @@ I'm interested in learning from other developers, collaborating on meaningful pr
 ## 🔝 Top Contributed Repositories
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ronny-dev01&theme=dark" alt="GitHub Streak" />
+  <a href="https://github.com/ronny-dev01?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories" />
+  </a>
 </p>
 
 ---
