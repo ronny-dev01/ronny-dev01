@@ -1,27 +1,266 @@
-# 💫 About Me:
-# Hey, I'm Rounit Kumar 👋<br><br><div align="center"><br><br>### 💻 Aspiring DevOps Engineer · Full-Stack Developer · AI/ML Enthusiast<br><br>*BCA student building real-world software, exploring intelligent systems, and learning how to ship reliable applications.*<br><br><br/><br><br><a href="https://github.com/ronny-dev01"><br>  <img src="https://img.shields.io/badge/GitHub-ronny--dev01-181717?style=for-the-badge&logo=github" alt="GitHub"/><br></a><br><a href="https://www.python.org/"><br>  <img src="https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/><br></a><br><a href="https://react.dev/"><br>  <img src="https://img.shields.io/badge/React-Development-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/><br></a><br><a href="https://fastapi.tiangolo.com/"><br>  <img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/><br></a><br><br></div><br><br>---<br><br>## 👨‍💻 About Me<br><br>- 🎓 Pursuing a Bachelor of Computer Applications (BCA).<br>- 🧑‍💻 Interested in software engineering, backend development, and system architecture.<br>- 🌊 Contributing to **DeepSight**, an AI-powered underwater sonar analysis project for SIH 2026.<br>- 🌾 Building **Kisaan Mitra**, a collaborative agricultural procurement platform.<br>- 🤖 Exploring computer vision, object detection, and practical AI/ML applications.<br>- ☁️ Working toward DevOps and cloud engineering through hands-on learning.<br>- 🤝 Open to meaningful collaborations, internships, and open-source contributions.<br><br>---<br><br>## 🛠️ Technologies & Tools<br><br>### 💻 Languages<br><br><p><br>  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/><br>  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/><br>  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/><br>  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/><br>  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/><br></p><br><br>### 🎨 Frontend Development<br><br><p><br>  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/><br>  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/><br>  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/><br>  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/><br>  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/><br></p><br><br>### ⚙️ Backend & Databases<br><br><p><br>  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/><br>  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/><br>  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/><br>  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white"/><br>  <img src="https://img.shields.io/badge/Alembic-6BA81E?style=flat-square"/><br></p><br><br>### 🤖 AI/ML & Computer Vision<br><br><p><br>  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/><br>  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/><br>  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/><br>  <img src="https://img.shields.io/badge/YOLO-Object_Detection-111F68?style=flat-square"/><br></p><br><br>### 🧰 Tools & DevOps<br><br><p><br>  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/><br>  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/><br>  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/><br>  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/><br>  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/><br>  <img src="https://img.shields.io/badge/CI%2FCD-Learning-6C63FF?style=flat-square"/><br></p><br><br>---<br><br>## 🚀 Featured Projects<br><br>### 🌊 DeepSight — Underwater Sonar Analysis<br><br>**AI-powered marine debris and anomaly detection using side-scan sonar imagery.**<br><br>An SIH 2026 project focused on analyzing underwater sonar data and helping reviewers investigate potential marine debris.<br><br>- 🔍 Object detection and acoustic evidence extraction.<br>- 🧭 Cross-frame detection review and visualization.<br>- 🗄️ Backend APIs, database integration, and ingestion workflows.<br>- 🧑‍🔬 Human verification and traceable review workflows.<br><br>**Tech stack:** Python · FastAPI · PostgreSQL · React · TypeScript · YOLO<br><br>🔗 **[Explore Repository →](https://github.com/ronny-dev01/DeepSight)**<br><br>### 🌾 Kisaan Mitra — Agricultural Procurement Platform<br><br>**A collaborative platform for agricultural procurement workflows.**<br><br>Designed to improve coordination between farmers and mandi operators through digital booking and role-based workflows.<br><br>- 👨‍🌾 Role-based user experiences.<br>- 📦 Assisted booking and procurement workflows.<br>- 🔐 Authentication and backend API development.<br><br>**Tech stack:** React · TypeScript · FastAPI · MySQL · SQLAlchemy<br><br>🔗 **[Explore Repository →](https://github.com/ZeeshanAhmad2901/Kisaan_Mitra)**<br><br>### 💡 More Projects & Experiments<br><br>I also explore application development, computer vision, and ideas that help me understand software engineering through practical implementation.<br><br>🔗 **[Browse All Repositories →](https://github.com/ronny-dev01?tab=repositories)**<br><br>---<br><br>## 🎯 Currently Exploring<br><br>| Area | Focus |<br>|:---|:---|<br>| 🐧 Linux | Command line, system administration, and permissions |<br>| 🐳 Docker | Containerization and reproducible environments |<br>| 🔄 CI/CD | Automated testing, builds, and deployments |<br>| ☁️ Cloud | AWS fundamentals and application deployment |<br>| 🔧 Backend | API design, databases, and reliable services |<br>| 🤖 AI/ML | Computer vision and model integration |<br><br>*My focus is on developing practical skills through projects rather than collecting tools.*<br><br>---<br><br>## 🏆 Achievements & Milestones<br><br>- 🚀 Developing real-world software projects as part of my learning journey.<br>- 🌊 Contributing to an SIH 2026 marine technology project.<br>- 🤝 Collaborating on solutions involving agriculture, AI, and software development.<br><br>---<br><br>## 📊 GitHub Overview<br><br><div align="center"><br><br><img width="49%" src="https://github-readme-stats.vercel.app/api?username=ronny-dev01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Rounit's GitHub statistics"/><br><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronny-dev01&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/><br><br><br/><br/><br><br><img width="70%" src="https://streak-stats.demolab.com?user=ronny-dev01&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/><br><br></div><br><br>---<br><br>## 🤝 Let's Connect<br><br>I'm always interested in learning from other developers, collaborating on useful projects, and exploring opportunities to grow as an engineer.<br><br>- 💻 **GitHub:** [@ronny-dev01](https://github.com/ronny-dev01)<br>- 📂 **Projects:** [My repositories](https://github.com/ronny-dev01?tab=repositories)<br>- 💼 **Open to:** Internships · Collaborations · Open Source<br><br>---<br><br><div align="center"><br><br>### 💭 *"Build. Learn. Improve. Repeat."* 🚀<br><br></div>
+# Hey, I'm Raunit Kumar 👋
 
+### Aspiring DevOps Engineer · Full-Stack Developer · AI/ML Enthusiast
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/psychic-ronny-) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rounit KUMAR) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@vasafaith) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Rounit Kumar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rounitmahto@gmail.com) 
+BCA student passionate about building real-world applications, exploring intelligent systems, and learning how to deploy reliable software.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ronny-dev01&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=ronny-dev01&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ronny-dev01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ronny-dev01&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ronny-dev01&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![GitHub](https://img.shields.io/badge/GitHub-ronny--dev01-181717?style=flat-square&logo=github)](https://github.com/ronny-dev01)
+[![Python](https://img.shields.io/badge/Python-Developer-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![React](https://img.shields.io/badge/React-Development-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 
 ---
-[![](https://komarev.com/ghpvc/?username=ronny-dev01&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+- 🎓 Pursuing a Bachelor of Computer Applications (BCA).
+- 💻 Interested in backend engineering, full-stack development, and system architecture.
+- 🌊 Contributing to **DeepSight**, an AI-powered underwater sonar analysis project for SIH 2026.
+- 🌾 Collaborating on **Kisaan Mitra**, an agricultural procurement platform.
+- 🤖 Exploring computer vision, object detection, and practical AI/ML applications.
+- ☁️ Learning Linux, Docker, CI/CD, cloud infrastructure, and deployment automation.
+- 🎯 Working toward a career in DevOps and Cloud Engineering.
+- 🤝 Open to internships, collaborations, and open-source contributions.
+
+---
+
+## 🛠️ Technologies & Tools
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Frontend Development**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+**Backend & Databases**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![Alembic](https://img.shields.io/badge/Alembic-6BA81E?style=flat-square)
+
+**AI/ML & Computer Vision**
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-Object_Detection-111F68?style=flat-square)
+
+**Tools & DevOps**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+*Currently expanding my hands-on experience with containerization, CI/CD, and cloud deployment.*
+
+---
+
+## 🚀 Featured Projects
+
+### 🌊 DeepSight — AI-Powered Underwater Sonar Analysis
+
+An SIH 2026 project focused on analyzing side-scan sonar imagery to identify potential marine debris and underwater anomalies.
+
+- 🔍 Object detection and acoustic evidence extraction.
+- 🧭 Cross-frame detection review and visualization.
+- ⚙️ Backend APIs and ingestion workflows.
+- 🧑‍🔬 Human verification and traceable review processes.
+
+**Tech:** Python · FastAPI · PostgreSQL · React · TypeScript · YOLO
+
+[![View Project](https://img.shields.io/badge/Explore_DeepSight-181717?style=flat-square&logo=github)](https://github.com/ronny-dev01/DeepSight)
+
+### 🌾 Kisaan Mitra — Agricultural Procurement Platform
+
+A collaborative project focused on improving digital procurement workflows between farmers and mandi operators.
+
+- 👨‍🌾 Role-based user workflows.
+- 📦 Assisted booking and procurement management.
+- 🔐 Authentication and backend API development.
+
+**Tech:** React · TypeScript · FastAPI · MySQL · SQLAlchemy
+
+[![View Project](https://img.shields.io/badge/Explore_Kisaan_Mitra-181717?style=flat-square&logo=github)](https://github.com/ZeeshanAhmad2901/Kisaan_Mitra)
+
+### 💡 More Projects & Experiments
+
+I enjoy experimenting with new technologies, improving existing applications, and building software that solves practical problems.
+
+[![All Repositories](https://img.shields.io/badge/Explore_All_Repositories-181717?style=flat-square&logo=github)](https://github.com/ronny-dev01?tab=repositories)
+
+---
+
+## 🎯 Current Learning Focus
+
+| Area | What I'm Exploring |
+|:---|:---|
+| 🐧 Linux | Commands, permissions, and system administration |
+| 🐳 Docker | Containers and reproducible environments |
+| 🔄 CI/CD | Automated testing, builds, and deployments |
+| ☁️ Cloud | AWS fundamentals and application deployment |
+| ⚙️ Backend | API design, databases, and system reliability |
+| 🤖 AI/ML | Computer vision and model integration |
+
+---
+
+## 🏆 Highlights
+
+- 🌊 Contributing to an SIH 2026 marine technology project.
+- 🌾 Collaborating on software for agricultural procurement workflows.
+- 🚀 Building practical projects while developing software engineering skills.
+
+---
+
+## 📊 GitHub Overview
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ronny-dev01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronny-dev01&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img width="65%" src="https://streak-stats.demolab.com/?user=ronny-dev01&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in learning from other developers, collaborating on meaningful projects, and growing as a software engineer.
+
+- 💻 **GitHub:** [@ronny-dev01](https://github.com/ronny-dev01)
+- 📂 **Projects:** [Browse my repositories](https://github.com/ronny-dev01?tab=repositories)
+- 📧 **Email:** [rounitmahto@gmail.com](mailto:rounitmahto@gmail.com)
+- 📸 **Instagram:** [@psychic-ronny-](https://instagram.com/psychic-ronny-)
+
+---
+
+<p align="center">
+  <i>“Build. Learn. Improve. Repeat.”</i> 🚀
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ronny-dev01&style=flat-square&color=blue" alt="Profile Views"/>
+</p>
+---
+
+## 🌐 Socials
+
+<p>
+  <a href="https://instagram.com/psychic-ronny-"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://linkedin.com/in/Rounit%20KUMAR"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://x.com/vasafaith"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://mastodon.social/@Rounit%20Kumar"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=flat-square&logo=mastodon&logoColor=white" alt="Mastodon"/></a>
+  <a href="mailto:rounitmahto@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+---
+
+## 🧰 Complete Tech Stack
+
+**Languages & Terminal**
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=flat-square&logo=windows-terminal&logoColor=white)
+
+**Frontend & Frameworks**
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+**Cloud, Hosting & Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
+
+**Databases & Data Science**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ronny-dev01&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Statistics" width="450"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ronny-dev01&theme=dark&hide_border=true" alt="GitHub Contribution Streak" width="495"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronny-dev01&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Most Used Languages" width="300"/>
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ronny-dev01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub Trophies"/>
+</p>
+
+---
+
+## ✍️ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Developer Quote"/>
+</p>
+
+---
+
+## 🔝 Top Contributed Repositories
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=ronny-dev01&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repositories"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ronny-dev01&style=flat-square&color=blue" alt="Profile Views"/>
+</p>
+
+<p align="center"><i>Thanks for visiting my profile! Keep building 🚀</i></p>
