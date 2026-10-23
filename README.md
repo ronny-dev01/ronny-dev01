@@ -234,13 +234,6 @@ I'm interested in learning from other developers, collaborating on meaningful pr
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronny-dev01&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Most Used Languages" width="300"/>
 </p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ronny-dev01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub Trophies"/>
-</p>
-
 ---
 
 ## ✍️ Random Dev Quote
@@ -254,13 +247,14 @@ I'm interested in learning from other developers, collaborating on meaningful pr
 ## 🔝 Top Contributed Repositories
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ronny-dev01&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repositories"/>
+  <img src="https://streak-stats.demolab.com/?user=ronny-dev01&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ronny-dev01&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://cdn.simpleicons.org/github/white" alt="GitHub" width="32" />
 </p>
+
 
 <p align="center"><i>Thanks for visiting my profile! Keep building 🚀</i></p>
